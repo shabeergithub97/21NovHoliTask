@@ -1,0 +1,45 @@
+.holicard {
+    background-image: url("https://en.pimg.jp/061/392/506/1/61392506.jpg");
+    background-size: cover;
+    height: 50vh;
+}
+.headfirst {
+    color: rgb(248, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 270px;
+}
+.holibottom {
+    background-image: url("https://as2.ftcdn.net/v2/jpg/04/17/12/93/1000_F_417129313_ISQNBeZVFcZEUsS8V6zKEH1cbjcazl77.jpg");
+    background-size: cover;
+    height: 110vh;
+}
+.holiimage {
+    height: 110px;
+    width: 110px;
+}
+.holishoppy {
+    background-color: rgba(250, 246, 246, 0.493);
+    width: 150px;
+    border-radius: 15px;
+    padding: 5px;
+    height: 195px;
+    text-align: center;
+    margin: 20px;
+}
+.holishoppy :hover {
+    transform: scale(2);
+    cursor:grab;
+}
+.holiheading {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.para {
+    font-weight: bold;
+}
+.text-center :hover {
+    transform: scale(2);
+    cursor:grab;
+}
